@@ -1,9 +1,9 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-<p>My name is Jackie, currently working as data analyst and product owner in IKEA.</p>
+<p>My name is Jackie, and I am currently working as a data analyst and product owner at IKEA.</p>
 
 ## About me
-I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects.</p>
+<p>I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects.</p>
 
 <p>I am deeply passionate about finding solutions to challenges and am recognized for my innovation, communication skills, and problem-solving abilities. I am also adept at adapting quickly to fast-paced environments.I always have a passion to find the solution to solve the problems.</p>
 
