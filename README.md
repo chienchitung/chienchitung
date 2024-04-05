@@ -1,14 +1,15 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-<p>My name is Jackie, and I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects. My name is Jackie. I have experience in Telco and E-Commerce industry and excelled in data analysis and build-up processes from 0 to 1.</p>
+<p>My name is Jackie, and I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects.</p>
 
-<p>am deeply passionate about finding solutions to challenges and am recognized for my innovation, communication skills, and problem-solving abilities. I am also adept at adapting quickly to fast-paced environments.I always have a passion to find the solution to solve the problems.</p>
+<p>I am deeply passionate about finding solutions to challenges and am recognized for my innovation, communication skills, and problem-solving abilities. I am also adept at adapting quickly to fast-paced environments.I always have a passion to find the solution to solve the problems.</p>
 
-<p>In my working experiences, I learn differnt tools regarding the data analysis and data visualization.</p>
+<p>Throughout my professional journey, I have acquired proficiency in various data analysis tools and techniques for data visualization.</p>
 
-- Skills sets: Product management, Data analytics, Project management, Operation management, and Qualitative & Quantitative research 
-- Data tools: MySQL, Oracle SQL, Python, Tableau, Power BI, Google analytics, Looker studio, MS Access, Qlikview, Qliksense
-- Other tools: Slack, Zendesk, Opsgenie, JIRA, Adyen
+# Skills
+- **Skills sets:** Product management, Data analytics, Project management, Operation management, and Qualitative & Quantitative research 
+- **Data tools:** MySQL, Oracle SQL, Python, Tableau, Power BI, Google analytics, Looker studio, MS Access, Qlikview, Qliksense
+- **Other tools:** Slack, Zendesk, Opsgenie, JIRA, Adyen
 
 ----
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chienchitung)](https://www.linkedin.com/in/chienchitung)
