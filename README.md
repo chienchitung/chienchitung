@@ -1,8 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-<p>My name is Jackie. I have experience in Telco and E-Commerce industry and excelled in data analysis and build-up processes from 0 to 1. I work effectively and proactively with a wide variety of projects.</p>
+<p>My name is Jackie, and I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects. My name is Jackie. I have experience in Telco and E-Commerce industry and excelled in data analysis and build-up processes from 0 to 1.</p>
 
-<p>I always have a passion to find the solution to solve the problems. A strong innovator, communicator, and problem solver, also quickly adapt in fast-paced environments.</p>
+<p>am deeply passionate about finding solutions to challenges and am recognized for my innovation, communication skills, and problem-solving abilities. I am also adept at adapting quickly to fast-paced environments.I always have a passion to find the solution to solve the problems.</p>
 
 <p>In my working experiences, I learn differnt tools regarding the data analysis and data visualization.</p>
 
