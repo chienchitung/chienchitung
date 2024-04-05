@@ -1,12 +1,15 @@
 # Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-<p>My name is Jackie, and I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects.</p>
+<p>My name is Jackie, currently working as data analyst and product owner in IKEA.</p>
+
+## About me
+I have experience in both the Telco and E-Commerce industries, specializing in data analysis and process development from inception to execution. I excel in effectively and proactively managing a diverse range of projects.</p>
 
 <p>I am deeply passionate about finding solutions to challenges and am recognized for my innovation, communication skills, and problem-solving abilities. I am also adept at adapting quickly to fast-paced environments.I always have a passion to find the solution to solve the problems.</p>
 
 <p>Throughout my professional journey, I have acquired proficiency in various data analysis tools and techniques for data visualization.</p>
 
-# Skills
+## Skills
 - **Skills sets:** Product management, Data analytics, Project management, Operation management, and Qualitative & Quantitative research 
 - **Data tools:** MySQL, Oracle SQL, Python, Tableau, Power BI, Google analytics, Looker studio, MS Access, Qlikview, Qliksense
 - **Other tools:** Slack, Zendesk, Opsgenie, JIRA, Adyen
