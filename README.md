@@ -15,7 +15,7 @@
 - **Other tools:** Slack, Zendesk, Opsgenie, JIRA, Adyen
 
 ----
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chienchitung)](https://www.linkedin.com/in/chienchitung)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chienchitung/)](https://www.linkedin.com/in/chienchitung/)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/jackie.tung/vizzes)](https://public.tableau.com/app/profile/jackie.tung/vizzes)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/chienchitung/)](https://github.com/chienchitung) 
 [![Substack Badge](http://img.shields.io/badge/-Substack-black?style=flat-square&logo=substack&link=https://jtdatastoryteller.substack.com)](https://jtdatastoryteller.substack.com)
