@@ -21,6 +21,6 @@
 [![Substack Badge](http://img.shields.io/badge/-Substack-black?style=flat-square&logo=substack&link=https://jtdatastoryteller.substack.com)](https://jtdatastoryteller.substack.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienchitung&layout=compact)](https://github.com/chienchitung/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chienchitung)
